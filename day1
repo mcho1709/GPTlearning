@@ -1,1 +1,4 @@
+name = "Min"
+hours_per_day = 1.5
 
+print(f"My name is {name}. I study {hours_per_day} hours a day to become a Data Engineer!")
